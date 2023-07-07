@@ -1,0 +1,61 @@
+[{    
+    "drinks":[
+        {
+            "Category": "Espresso Drinks",
+            "Name": "Espresso",
+            "Price": 35
+        },
+        {
+            "Category": "Espresso Drinks",
+            "Name": "Cappucino",
+            "Price":55
+        },
+        {
+            "Category": "Espresso Drinks",
+            "Name": "A healthy drink",
+            "Price": 35
+        },
+        {
+            "Category": "Espresso Drinks",
+            "Name": "Espresso Con Panna",
+            "Price":55
+        },
+        {
+            "Category": "Espresso Drinks",
+            "Name": "Espresso",
+            "Price": 35
+        },
+        {
+            "Category": "Espresso Drinks",
+            "Name": "Cortado",
+            "Price":55
+        },
+        {
+            "Category": "Espresso Drinks",
+            "Name": "Machiatto",
+            "Price": 35
+        },
+        {
+            "Category": "Espresso Drinks",
+            "Name": "Cappucino",
+            "Price":55
+        },
+        {
+            "Category": "Dessert",
+            "Name": "Espresso",
+            "Price": 35
+        },
+        {
+            "Category": "Dessert",
+            "Name": "Cappucino",
+            "Price":55
+        }
+    ],
+    "categories":["Espresso Drinks", "Dessert", "yysad", "SAdsad", "sadasdasdasd", "sadasdasdasd", "sadasdasdasd", "sadasdasdasd"],
+    "additions":[
+        {
+            "name":"vanilla",
+            "price":10
+        }
+    ]
+}]
